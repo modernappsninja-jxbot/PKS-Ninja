@@ -247,7 +247,7 @@ Click `Delete branch` to delete the `yourGithubUsername:update-1` branch
 
 Observe that the new folder you created is not yet available on your fork. Also observe that there is now only 1 branch, as you deleted the update-1 branch in the previous step.
 
-Review that in the steps above, you only edited files on your update branch and never edited the master branch of the local clone of your fork. In this workflow, the master branch of your clone of your fork only recieves updates from the upstream repository, ensuring that your local master stays clean and easy to maintain.
+Review that in the steps above, you only edited files on your update branch and never edited the master branch of the local clone of your fork. In this workflow, the master branch of your clone of your fork only recieves updates from the upstream repository, ensuring that your local master stays clean and easy to maintain. 
 
 <details><summary>Screenshot 1.15</summary>
 <img src="Images/2019-02-09-20-13-15.png">
